@@ -1,6 +1,6 @@
 # Pizzahut: Unlocking Insights for a Food Business
 
-<img src="./pizza.PNG"/>&nbsp;
+<img src="./pizza.png"/>&nbsp;
 
 ## 📌 Project Overview
 This project focuses on analyzing pizza sales data by performing various SQL operations to derive actionable insights. The dataset contains information on orders, pizza types, sizes, and pricing, enabling detailed analysis to enhance business decisions.
